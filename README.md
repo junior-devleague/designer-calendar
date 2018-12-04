@@ -23,7 +23,6 @@ To complete Part I, fulfill the following requirements:
 1. Set up your file structure through the command line:
  * index.html
  * styles.css
- * app.js
 2. Link your CSS file to your index.html file.
 
 ### Part II HTML
